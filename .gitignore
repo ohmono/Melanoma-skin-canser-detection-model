@@ -1,0 +1,11 @@
+# folders
+data
+env
+scripts
+
+# cache
+.vscode
+
+# files
+*.zip
+
