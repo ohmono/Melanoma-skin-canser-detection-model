@@ -2,10 +2,10 @@
 data
 env
 scripts
+Ytube-vgg19
 
 # cache
 .vscode
 
-# files
-*.zip
+
 
